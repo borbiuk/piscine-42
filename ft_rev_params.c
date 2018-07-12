@@ -1,4 +1,4 @@
-// A program that displays all the parameters in reverse order
+// A program that displays all parameters in reverse order
 
 #include "piscine.h"
 
