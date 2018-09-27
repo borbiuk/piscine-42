@@ -1,4 +1,4 @@
-Description of file "piscine.h":
+Description:
 
 In the winter of 2018 I passed the selection to school 42.
 All functions described in header are a task from the pool 42.
